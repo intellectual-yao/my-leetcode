@@ -21,4 +21,4 @@ bool isPalindrome(int x)
 	        }
 	    }
         return true;
-}
+} 
